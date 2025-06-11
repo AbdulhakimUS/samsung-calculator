@@ -101,5 +101,3 @@ document.addEventListener("keydown", (event) => {
         calDisplay.style.fontSize = "4rem";
     }
 });
-
-
